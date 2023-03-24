@@ -49,6 +49,11 @@ function keyboardSound(key)
         var aha = new Audio("audio/aha.mp3");
         aha.play();
         break;
+    
+    case "o":
+        var ohYeah = new Audio("audio/broom.mp3");
+        ohYeah.play();
+        break;
 
     case "l":
         var playSound = new Audio("audio/play sound_ren.wav");
