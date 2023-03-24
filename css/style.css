@@ -110,7 +110,7 @@ body{
     color: #AA5656;
     display: inline-block;
     font-size: 5rem;
-/*     font-family: 'Arvo', cursive; */
+    /* font-family: 'Arvo', cursive; */
     font-weight: 900;
     height: 100px;
     width: 100px;
@@ -137,5 +137,11 @@ body{
     margin: 0;
     /* font-size: calc(1.525rem + 3.3vw); */
     /* text-transform: uppercase; */
+  }
+
+  .whenPress
+  {
+    box-shadow: 0 3px 4px 0 grey;
+    opacity: 0.5;
   }
   
