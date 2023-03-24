@@ -64,6 +64,11 @@ function keyboardSound(key)
         var broom = new Audio("audio/broom.mp3");
         broom.play();
         break;
+    
+    case "o":
+        var ohYeah = new Audio("audio/huh.oh yeah.wav");
+        ohYeah.play();
+        break;
 
     default: 
         
