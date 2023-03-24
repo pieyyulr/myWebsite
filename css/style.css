@@ -129,4 +129,13 @@ body{
     margin: 0;
     padding-top: 100px;
   }
+
+  #letsPlay{
+    color: #104F50;
+    /* font-family: 'Amatic SC', cursive; */
+    font-size: 60px;
+    margin: 0;
+    /* font-size: calc(1.525rem + 3.3vw); */
+    /* text-transform: uppercase; */
+  }
   
