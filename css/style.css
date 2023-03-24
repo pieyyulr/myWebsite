@@ -77,7 +77,7 @@ body{
     padding-bottom: 50px;
 }
 
-#myProfile{
+#myProfile {
     background-color: white;
     padding-top: 200px;
 }
@@ -102,7 +102,7 @@ body{
 
 /* works.html */
 
-.audio {
+.audio{
     outline: none;
     background-color: white;
     border: 10px solid #698269;
@@ -144,4 +144,42 @@ body{
     box-shadow: 0 3px 4px 0 grey;
     opacity: 0.5;
   }
+
+#myCV{
+    background-color: white;
+    text-align: center;
+}
+
+#row1{
+    background-color:  #F8CBA6;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 80px;
+    
+}
   
+#profilePicCV{
+    height: 260.562px;
+    width: 289px;
+    padding-bottom: 20px;    
+}
+
+#contacts{
+    outline: none;
+    background-color: white;
+    border: 3px solid #012501;
+    border-radius: 10px;
+    height: 300px;
+    width: 280px;
+    text-align: left;    
+}
+
+#h4contactCV{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    margin: 0;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    text-decoration-color: #104F50;
+    text-transform: uppercase;
+}
